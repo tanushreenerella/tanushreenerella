@@ -1,4 +1,4 @@
-# Hi, I am Tanushree Nerella 👋
+<h1 align='center'> Hi, I am Tanushree Nerella 👋 </h1> 
 
 - I am a final-year Computer Science student, passionate about building production-grade AI and full-stack applications.
 - I love turning ideas into real, deployed products rather than just prototypes.
