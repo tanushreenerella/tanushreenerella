@@ -47,15 +47,6 @@ Multi-agent AI system that predicts vehicle maintenance needs using LangGraph or
 AI-powered platform to find teammates, co-founders, and funding for student startups using Gemini-based matchmaking.
 - **Stack:** MongoDB, Express, React, Node.js, FastAPI, FAISS, Groq LLaMA 3.1
 - **Features:** JWT + Google OAuth, WebSockets for real-time updates, RAG-powered copilot
-
-#### [Closira](https://github.com/tanushreenerella/closira) — AI Customer Support Agent
-Stateful AI customer support agent using LangGraph and Groq Llama 3.3 — handles FAQ answering, lead qualification, and escalation detection.
-- **Stack:** LangGraph, Groq, FastAPI, WebSockets
-
-#### [TaskFlow](https://github.com/tanushreenerella/TaskFlow) — AI-Powered Task Manager
-AI-powered MERN task manager with Kanban boards, drag-and-drop, and Groq LLaMA-based priority suggestions.
-- **Stack:** MongoDB, Express, React, Node.js, Groq
-
 ---
 
 ### 📊 GitHub Stats
