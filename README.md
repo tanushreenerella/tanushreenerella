@@ -40,5 +40,11 @@ AI-powered platform to find teammates, co-founders, and funding for student star
 Stack: MongoDB, Express, React, Node.js, FastAPI, FAISS, Groq LLaMA 3.1
 Features: JWT + Google OAuth, WebSockets for real-time updates, FAISS-based semantic matchmaking (Gemini Embedding 001), RAG-powered copilotnt using LangGraph
 
-### 📊 GitHub Stats:
-![Tanushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanushreenerella&show_icons=true&theme=default&hide_border=true)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanushreenerella&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanushreenerella&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushreenerella&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
