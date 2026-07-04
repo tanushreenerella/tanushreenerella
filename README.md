@@ -1,20 +1,16 @@
-<h1 align="center">Hi, I'm Tanushree 👋</h1>
-<h3 align="center">Building production-grade agentic AI systems | Final-year CS @ MUJ</h3>
+# Hi, I am Tanushree Nerella 👋
 
-<p align="center">
-  🔍 Actively looking for <b>AI/ML & Full-Stack internships</b> — remote-first<br/>
-  🚀 I ship full products, not just notebooks — FastAPI/Next.js on the frontend, LangGraph/RAG under the hood
-</p>
+- I am a final-year Computer Science student, passionate about building production-grade AI and full-stack applications.
+- I love turning ideas into real, deployed products rather than just prototypes.
+- I specialize in agentic AI systems — RAG pipelines, multi-agent orchestration, and LLM-powered apps.
+- I am always focused on writing clean, scalable code and solve real production challenges.
+- I am actively looking for AI/ML and Full-Stack internship opportunities.
+- Currently pursuing my degree in Computer Science at Manipal University Jaipur (2027).
 
-<p align="center">
-  <a href="mailto:tanushreenerella697@gmail.com">📧 Email</a> •
-  <a href="https://github.com/tanushreenerella">💻 GitHub</a>
-</p>
+### Connect with me:
+📧 [tanushreenerella697@gmail.com](mailto:tanushreenerella697@gmail.com)
 
----
-
-### 🛠️ Tech Stack
-
+### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -24,46 +20,25 @@
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
 ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square)
-![FAISS](https://img.shields.io/badge/-FAISS-00599C?style=flat-square)
 
----
+🚀 Featured Projects
 
-### 🚀 Featured Projects
-
-#### [DocMind](https://github.com/tanushreenerella/DocMind) — Agentic RAG Platform
+DocMind — Agentic RAG Platform
 AI-powered document assistant that lets you upload, search, and chat with your documents using RAG and voice input.
-- **Stack:** FastAPI, Next.js, ChromaDB, Gemini Embeddings, Groq LLaMA + Whisper
-- **Architecture:** Single ChromaDB collection with metadata-based per-doc isolation (`doc_id` filtering)
-- **Shipped features:** Bulk upload, citation cards, OCR fallback for scanned docs, security layers
-- **Deployed:** Render (backend) + Vercel (frontend)
+Stack: FastAPI, Next.js, ChromaDB, Gemini Embeddings, Groq LLaMA + Whisper
+Architecture: Single ChromaDB collection with metadata-based per-document isolation (doc_id filtering)
+Shipped features: Bulk upload, citation cards, OCR fallback for scanned docs, security layers
+Deployed: Render (backend) + Vercel (frontend)
 
-#### [ProactiveAI](https://github.com/tanushreenerella/ProactiveAI) — Multi-Agent Predictive Maintenance
+ProactiveAI — Multi-Agent Predictive Maintenance
 Multi-agent AI system that predicts vehicle maintenance needs using LangGraph orchestration and machine learning models.
-- **Stack:** LangGraph, Random Forest, LightGBM
-- **Architecture:** Supervisor agent routes to domain-specific sub-agents based on task type
+Stack: LangGraph, Random Forest, LightGBM
+Architecture: Supervisor agent routes to 4 domain-specific sub-agents based on task type
 
-#### [ProjectHub](https://github.com/tanushreenerella/ProjectHub) — Student Startup Collaboration Platform
-AI-powered platform to find teammates, co-founders, and funding for student startups using Gemini-based matchmaking.
-- **Stack:** MongoDB, Express, React, Node.js, FastAPI, FAISS, Groq LLaMA 3.1
-- **Features:** JWT + Google OAuth, WebSockets for real-time updates, RAG-powered copilot
----
+ProjectHub — Student Startup Collaboration Platform
+AI-powered platform to find teammates, co-founders, and funding for student startups using Gemini-based matchmaking
+Stack: MongoDB, Express, React, Node.js, FastAPI, FAISS, Groq LLaMA 3.1
+Features: JWT + Google OAuth, WebSockets for real-time updates, FAISS-based semantic matchmaking (Gemini Embedding 001), RAG-powered copilotnt using LangGraph
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanushreenerella&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanushreenerella&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushreenerella&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### 📫 Let's Connect
-
-I'm actively applying to AI-first startups and full-stack roles — always open to a conversation about agentic AI, RAG systems, or production ML.
-
-📧 **tanushreenerella697@gmail.com**
+### 📊 GitHub Stats:
+![Tanushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanushreenerella&show_icons=true&theme=default&hide_border=true)
