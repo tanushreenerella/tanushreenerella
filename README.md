@@ -21,24 +21,6 @@
 ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
-🚀 Featured Projects
-
-DocMind — Agentic RAG Platform
-AI-powered document assistant that lets you upload, search, and chat with your documents using RAG and voice input.
-Stack: FastAPI, Next.js, ChromaDB, Gemini Embeddings, Groq LLaMA + Whisper
-Architecture: Single ChromaDB collection with metadata-based per-document isolation (doc_id filtering)
-Shipped features: Bulk upload, citation cards, OCR fallback for scanned docs, security layers
-Deployed: Render (backend) + Vercel (frontend)
-
-ProactiveAI — Multi-Agent Predictive Maintenance
-Multi-agent AI system that predicts vehicle maintenance needs using LangGraph orchestration and machine learning models.
-Stack: LangGraph, Random Forest, LightGBM
-Architecture: Supervisor agent routes to 4 domain-specific sub-agents based on task type
-
-ProjectHub — Student Startup Collaboration Platform
-AI-powered platform to find teammates, co-founders, and funding for student startups using Gemini-based matchmaking
-Stack: MongoDB, Express, React, Node.js, FastAPI, FAISS, Groq LLaMA 3.1
-Features: JWT + Google OAuth, WebSockets for real-time updates, FAISS-based semantic matchmaking (Gemini Embedding 001), RAG-powered copilotnt using LangGraph
 
 ### 📊 GitHub Stats
 <p align="center">
