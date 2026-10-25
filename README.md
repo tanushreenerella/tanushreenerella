@@ -4,7 +4,7 @@
 
 ### About me
 - I build and deploy end-to-end AI products: RAG pipelines, ML models, and the backends and frontends around them.
-- I design agentic systems and multi-agent workflows, and I regularly build at hackathons like Smart India Hackathon and PayPal AI Hackathon.
+- I design agentic systems and multi-agent workflows, and I regularly build at hackathons and have practical experience through it.
 - Former ML intern at IIT Roorkee, where I worked on workforce demand forecasting for quick-commerce platforms.
 - Open to AI/ML and Full-Stack roles and internships.
 
