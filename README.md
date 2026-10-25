@@ -4,9 +4,8 @@
 
 ### About me
 - I build and deploy end-to-end AI products: RAG pipelines, ML models, and the backends and frontends around them.
-- I care about measurable results: retrieval metrics, baselines, ablations, and honest evaluation.
-- Former ML intern at IIT Roorkee (workforce demand forecasting for quick-commerce).
-- Oracle Cloud Infrastructure Certified AI Foundations Associate.
+- I design agentic systems and multi-agent workflows, and I regularly build at hackathons like Smart India Hackathon and PayPal AI Hackathon.
+- Former ML intern at IIT Roorkee, where I worked on workforce demand forecasting for quick-commerce platforms.
 - Open to AI/ML and Full-Stack roles and internships.
 
 ### Featured projects
