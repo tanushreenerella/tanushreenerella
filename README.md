@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tanushree Nerella 👋</h1>
 
-<p align="center">Final-year CSE student at Manipal University Jaipur (2027). I build ML systems and full-stack AI applications that are deployed and measured</p>
+<p align="center">Final-year CSE student at Manipal University Jaipur (2027). I build ML systems and full-stack AI applications.</p>
 
 ### About Me
 
