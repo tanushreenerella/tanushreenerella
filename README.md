@@ -1,33 +1,26 @@
-<h1 align="center">Hi, I am Tanushree Nerella 👋</h1>
+<h1 align="center">Hi, I'm Tanushree Nerella 👋</h1>
 
-<p align="center">Final-year CSE student at Manipal University Jaipur (2027) building ML systems and full-stack AI applications that are deployed and in use, not just prototypes.</p>
+<p align="center">Final-year CSE student at Manipal University Jaipur (2027). I build ML systems and full-stack AI applications that are deployed and measured, not just prototypes.</p>
 
-### About me
-- I build and deploy end-to-end AI products: RAG pipelines, ML models, and the backends and frontends around them.
-- I design agentic systems and multi-agent workflows, and I regularly build at hackathons and have practical experience through it.
-- I evaluate what I build: retrieval metrics (Recall@k) for RAG, confidence scoring and guardrails for agent outputs.
-- Former ML intern at IIT Roorkee, where I worked on workforce demand forecasting for quick-commerce platforms.
-- Open to AI/ML and Full-Stack roles and internships.
+### About Me
 
-### Featured projects
-| Project | What it does | Links |
-|---|---|---|
-| **DocMind** | Multi-agent RAG platform with hybrid BM25 + dense retrieval and cross-encoder reranking (Recall@5 0.94) | [Live](https://doc-mind-three.vercel.app/) · [Code](https://github.com/tanushreenerella/DocMind) |
-| **ProactiveAI** | Predictive vehicle maintenance with XGBoost/LightGBM failure models and SHAP explanations | [Live](https://ai-predictive-vehicle-maintenance.vercel.app/) · [Code](https://github.com/tanushreenerella/AI-Predictive-Vehicle-Maintenance) |
-| **Closira** | IT helpdesk assistant with ML-driven escalation (intent + emotion models, risk-based routing, ticketing) | [Live](https://closira-it-helpdesk.vercel.app/) · [Code](https://github.com/tanushreenerella/closira-it-helpdesk) |
-| **QuickServe** | Canteen ordering system with Stripe payments, RBAC, and wait-time prediction | [Code](https://github.com/tanushreenerella/QuickServe) |
+- Building AI systems involving RAG, LLMs, Agentic AI, and NLP.
+- Focused on measurable engineering.
+- Former ML Intern at IIT Roorkee, working on demand forecasting for quick-commerce delivery workforces.
+- Working on open source contributions and preparing for Google Summer of Code (GSoC).
+- Interested in solving real-world problems through applied AI and software engineering.
 
 ### Tech stack
-**ML/AI:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+**ML/AI:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
-**Agents & Eval:** ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Tool Calling](https://img.shields.io/badge/-Tool%20Calling-6E40C9?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-0F766E?style=flat-square) ![Retrieval Eval](https://img.shields.io/badge/-Retrieval%20Eval%20(Recall%40k)-B45309?style=flat-square) ![Guardrails](https://img.shields.io/badge/-Guardrails-475569?style=flat-square)
+**Agents & Eval:** ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-6E40C9?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-0F766E?style=flat-square) ![LLM Evals](https://img.shields.io/badge/-LLM%20Evals-B45309?style=flat-square) ![Guardrails](https://img.shields.io/badge/-Guardrails-475569?style=flat-square)
 
-**Backend:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Backend:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Frontend and tools:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Frontend & tools:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-nerella/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanushreenerella697@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-venkata-nerella-03701b342/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanushreenerella697@gmail.com)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tanushreenerella&hide_border=true" alt="GitHub Streak" height="165"/>
