@@ -7,7 +7,7 @@
 - Building AI systems involving RAG, LLMs, Agentic AI, and NLP.
 - Focused on measurable engineering.
 - Former ML Intern at IIT Roorkee, working on demand forecasting for quick-commerce delivery workforces.
-- Working on open source contributions and preparing for Google Summer of Code (GSoC).
+- Contributing to open source and preparing for Google Summer of Code (GSoC)
 - Interested in solving real-world problems through applied AI and software engineering.
 
 ### Tech stack
